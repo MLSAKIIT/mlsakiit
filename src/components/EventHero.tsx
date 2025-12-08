@@ -50,12 +50,12 @@ const EventHero = () => {
               <div className="flex cursor-default flex-col  items-end justify-between pr-3 pt-3  text-right md:text-lg lg:text-xl font-normal capitalize">
                 <div className="flex flex-col">
                   <h1 className="text-[15px] font-semibold md:leading-2 lg:leading-4 md:py-1 md:text-xl lg:text-2xl">
-                    Project Wing 4.0
+                    Project Wing 5.0
                   </h1>
 
                   <div className="my-2 flex items-center justify-end gap-1">
                     <BsCalendar4Week />
-                    <p>19th Jan, 2025</p>
+                    <p>14th Dec, 2025</p>
                   </div>
                   <div className="duration-50 mb-2 mt-1 h-[2px] w-[100%] bg-gradient-to-r from-transparent to-[#ffffff]  my-1 lg:my-2 "></div>
                   <div className="flex sm:flex-row sm:gap-4 sm:items-center flex-col ">
