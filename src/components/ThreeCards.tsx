@@ -11,136 +11,136 @@ const data = [{
   name: "Dawar Shafaque",
   designation: "EX CONTENT LEAD",
   testimonial: "MLSA was one of the most beautiful chapters of my college life. This community helped me grow as a person, and I will definitely cherish the memories I made here. It's been an epic adventure that I’ll always look back on with a smile!",
-  image: "/Current_Leads/dawar.png"
+  image: "/Current_Leads/2023/dawar.png"
 },
 {
   name: "Anunay Kumar",
   designation: "EX YOUTUBE-HOSTING LEAD",
   testimonial: "From joining MLSA right in my first year till the day, the journey has been amazing. I have enjoyed each and every moment here, and it has truly been a very cherishing experience. The events were always filled with fun and laughter, creating a very vibrant atmosphere. I have made some amazing friends here and have cherished every memory that we have created together and I will always hold these very close to my heart .",
-  image: "/Current_Leads/anunay.png"
+  image: "/Current_Leads/2023/anunay.png"
 },
 {
   name: "Pritam Kumar Paul",
   designation: "EX AR/VR LEAD",
   testimonial: "I used to be hesitant about joining a tech society, thinking I didn't have enough to offer. But MLSA proved me wrong. The supportive environment encouraged me to step outside my comfort zone. I've made lifelong friends, organized successful events, and even contributed to spreading awareness about XR technology. It's been an incredible journey of personal and professional growth.",
-  image: "/Current_Leads/preetam.png"
+  image: "/Current_Leads/2023/preetam.png"
 },
 {
   name: "Samriddhi Sharma",
   designation: "EX CREATIVE LEAD",
   testimonial: `My time at MLSA has been an invaluable experience that I will cherish forever, from overcoming the challenges together to creating unforgettable memories in person, my experiences at MLSA have shaped me into the person I am today. Starting our journey amidst Covid and then meeting the community members in-person at college soon after, and the subsequent building of deep connections with the community members has been impactful. Huge shoutout to my core team for those late-night laughs and support.
 I wholeheartedly wish the MLSA community continued success and fulfillment. Here’s to MLSA, and to all those who will call it home in the future. May your experiences be as enriching and unforgettable as mine.`,
-  image: "/Current_Leads/samridhi.png"
+  image: "/Current_Leads/2023/samridhi.png"
 },
 {
   name: "Harshit Yadav",
   designation: "EX TECH LEAD",
   testimonial: `'The' MLSA has been pivotal in my journey, offering countless opportunities for self discovery and growth. It has enabled me to start contributing to both technical and non technical events and ultimately rise to challenge of leading the technical team, enriching my skills and broadening my horizons.`,
-  image: "/Current_Leads/harshit1.jpg"
+  image: "/Current_Leads/2023/harshit1.jpg"
 },
 {
   name: "Sachi Verma",
   designation: "EX VICE LEAD",
   testimonial: `A journey is usually defined by the progressing footsteps. MLSA KIIT has been a catalyst to my journey. It has not only accelerated my growth but also gave me the best of friends who were never less than family.
 I’m so grateful for the experience, loved every minute of it!! ❤️`,
-  image: "/Current_Leads/sachi.png"
+  image: "/Current_Leads/2023/sachi.png"
 },
 {
   name: "Amaan Bhati",
   designation: "EX WEB DEV LEAD",
   testimonial: `I joined the MLSA back in my first year of college when it was still known as the Microsoft Student Community (MSC). Ever since then, it has been one of the best part of my college journey. The experiences I've had here, both technical and personal, have truly brought out the best in me. From the knowledge I gained to the friendships I forged, every event, GBM, ideation session, and even the ups and downs have been memorable. MLSA has left a lasting impact on me, and I am deeply grateful for the opportunities and growth it provided. This community will always hold a special place in my heart, and I’m confident it will continue to inspire and elevate its members in the best way possible.`,
-  image: "/Current_Leads/amaan.png"
+  image: "/Current_Leads/2023/amaan.png"
 },
 {
   name: "Paarth Pareek",
   designation: "EX LEAD",
   testimonial: `Being in MLSA defined a large part of my college life, developing new skills be it technical, or in general, be it the seniors I got to interact with, or the juniors we led, we lived through the full circle of college. The most difficult part however, is trying to fit it all in a simple text box because the sheer number of experiences I had doesn’t make it possible for me to talk about each and every single one of them here. That’s what MLSA is, a place where you’ll meet people that you won’t forget for life, experiences that will quite literally define you, and the most important part, you make genuine connections for life. Wishing the next batch of leads even more success, cheers!`,
-  image: "/Current_Leads/parth.png"
+  image: "/Current_Leads/2023/parth.png"
 },
 {
   name: "Ayush bachan",
   designation: "EX UIUX LEAD",
   testimonial: `My journey started a bit late at MLSA. But I got a lot of experience and exposure which are helping me in my internships. Being the lead of the design team help me to gain a lot of experience in managing team. As a whole the experience was amazing and made a good team which I know is going to stay with me even after the college.`,
-  image: "/Current_Leads/ayush.png"
+  image: "/Current_Leads/2023/ayush.png"
 },
 {
   name: "Archit Gupta",
   designation: "EX EXECUTIVE",
   testimonial: `He is an incredible friend with unmatched communication skills and a fantastic sense of humor that lights up every room.`,
-  image: "/Current_Leads/archit.png"
+  image: "/Current_Leads/2023/archit.png"
 },
 {
   name: "Aaryan Jordan ",
   designation: "EX TECH LEAD",
   testimonial: `He is an incredible friend with unmatched communication skills and a fantastic sense of humor that lights up every room.`,
-  image: "/Current_Leads/jordan.png"
+  image: "/Current_Leads/2023/jordan.png"
 },
 {
   name: "Parivesh Srivastava",
   designation: "EX VIDEO EDITING LEAD",
   testimonial: "MLSA encouraged me to do Video editing in a dedicated manner, because before that i never took it seriously. it helped me analyse my potential and interest in creative field. and now bcs of the spark that it lit in me , my whole career is established. being praised for my work all the time by every senior , junior and co-members was the biggest ego boost i have ever received in my life. and i will always cherish those memories.",
-  image: "/Current_Leads/parivesh.png"
+  image: "/Current_Leads/2023/parivesh.png"
 },
 {
   name: "Pranshu Sahay",
   designation: "EX CR LEAD",
   testimonial: "MLSA is such a huge part of my college journey! It feels like a family where the connections I've made are priceless. From late-night meetings to epic events, every moment has been a blast. I’ll always treasure the laughs and memories we’ve shared. Here’s to the best time together! 3…2…1… MLSA Forever!",
-  image: "/Current_Leads/pranshu.png"
+  image: "/Current_Leads/2023/pranshu.png"
 },
 {
   name: "Shashank Deepak",
   designation: "EX APP DEV LEAD",
   testimonial: "Leading the Mobile Development team at MLSA was more like being a captain of a tech-savvy pirate ship, hurdling accross the oceans with waves taking us up and down. Though with my brilliant crewmates it was really a fun journey.",
-  image: "/Current_Leads/shashank.png"
+  image: "/Current_Leads/2023/shashank.png"
 },
 {
   name: "Arunopal Dutta",
   designation: "EX AIML LEAD",
   testimonial: "Leading the Mobile Development team at MLSA was more like being a captain of a tech-savvy pirate ship, hurdling accross the oceans with waves taking us up and down. Though with my brilliant crewmates it was really a fun journey.",
-  image: "/Current_Leads/arunopal.png"
+  image: "/Current_Leads/2023/arunopal.png"
 },
 {
   name: "Subandhu",
   designation: "EX CLOUD LEAD",
   testimonial: "My time at MLSA KIIT was transformative, providing opportunities to lead a talented team, drive impactful projects, and build meaningful connections with like-minded peers. This experience not only enhanced my technical skills but also fostered a deep sense of camaraderie and professional development that I will cherish forever.",
-  image: "/Current_Leads/subandhu.png"
+  image: "/Current_Leads/2023/subandhu.png"
 },
   // {
   //   name: "Sourashish Basu",
   //   designation: "EX CLOUD LEAD",
   //   testimonial: `A journey is usually defined by the progressing footsteps. MLSA KIIT has been a catalyst to my journey. It has not only accelerated my growth but also gave me the best of friends who were never less than family.
   // I’m so grateful for the experience, loved every minute of it!! ❤️`,
-  //   image: "/Current_Leads/Sourashish_Basu.jpg"
+  //   image: "/Current_Leads/2024/Sourashish_Basu.jpg"
   // },
   // {
   //   name: "Dhruv Aggarwal",
   //   designation: "EX EXECUTIVE",
   //   testimonial: `I joined the MLSA back in my first year of college when it was still known as the Microsoft Student Community (MSC). Ever since then, it has been one of the best part of my college journey. The experiences I've had here, both technical and personal, have truly brought out the best in me. From the knowledge I gained to the friendships I forged, every event, GBM, ideation session, and even the ups and downs have been memorable. MLSA has left a lasting impact on me, and I am deeply grateful for the opportunities and growth it provided. This community will always hold a special place in my heart, and I’m confident it will continue to inspire and elevate its members in the best way possible.`,
-  //   image: "/Current_Leads/dhruv.png"
+  //   image: "/Current_Leads/2024/dhruv.png"
   // },
   // {
   //   name: "Shipra Singh",
   //   designation: "EX BROADCASTING LEAD",
   //   testimonial: `My time at MLSA was an extraordinary adventure, leading a dream team of talented individuals who became an unstoppable force. Together, we built a domain renowned for exceptional teamwork, seamless collaboration, and commitment to ethics. I'm grateful for the invaluable lessons, unforgettable experiences, and lifelong friendships forged during this journey. MLSA will always be a shining example of what can be achieved when teamwork, ethics, and passion come together. This experience will forever be a highlight of my college life.`,
-  //   image: "/Current_Leads/ShipraSingh.png"
+  //   image: "/Current_Leads/2024/ShipraSingh.png"
   // },
   // {
   //   name: "Akshat",
   //   designation: "EX LEAD",
   //   testimonial: `Being in MLSA defined a large part of my college life, developing new skills be it technical, or in general, be it the seniors I got to interact with, or the juniors we led, we lived through the full circle of college. The most difficult part however, is trying to fit it all in a simple text box because the sheer number of experiences I had doesn’t make it possible for me to talk about each and every single one of them here. That’s what MLSA is, a place where you’ll meet people that you won’t forget for life, experiences that will quite literally define you, and the most important part, you make genuine connections for life. Wishing the next batch of leads even more success, cheers!`,
-  //   image: "/Current_Leads/Akshat.jpg"
+  //   image: "/Current_Leads/2024/Akshat.jpg"
   // },
   // {
   //   name: "Utsav",
   //   designation: "EX MARKETING LEAD",
   //   testimonial: `He is an incredible friend with unmatched communication skills and a fantastic sense of humor that lights up every room.`,
-  //   image: "/Current_Leads/utsav.png"
+  //   image: "/Current_Leads/2024/utsav.png"
   // },
   // {
   //   name: "G. Dhvani Iyer",
   //   designation: "EX VICE LEAD",
   //   testimonial: `SHe is an incredible friend with unmatched communication skills and a fantastic sense of humor that lights up every room.`,
-  //   image: "/Current_Leads/Dhvani.png"
+  //   image: "/Current_Leads/2024/Dhvani.png"
   // },
 ]
 

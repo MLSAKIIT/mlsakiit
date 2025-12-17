@@ -576,7 +576,7 @@ export const OUR_LEADS = [
 
 // export const OUR_CURRENT_LEADS = [
 //   {
-//     image: "/Current_Leads/parth.png",
+//     image: "/Current_Leads/2024/parth.png",
 //     name: "Paarth Pareek",
 //     domain: "Lead",
 //     message: "lending my hands in developing a better technical society",
@@ -586,7 +586,7 @@ export const OUR_LEADS = [
 //     github: "",
 //   },
 //   {
-//     image: "/Current_Leads/sachi.png",
+//     image: "/Current_Leads/2024/sachi.png",
 //     name: "Sachi Verma",
 //     domain: "Vice Lead",
 //     message: "",
@@ -596,7 +596,7 @@ export const OUR_LEADS = [
 //     github: "",
 //   },
 //   {
-//     image: "/Current_Leads/archit.png",
+//     image: "/Current_Leads/2024/archit.png",
 //     name: "Archit Gupta",
 //     domain: "Executive",
 //     message: "",
@@ -606,7 +606,7 @@ export const OUR_LEADS = [
 //     github: "https://github.com/i-archit-gupta",
 //   },
 //   {
-//     image: "/Current_Leads/harshit1.jpg",
+//     image: "/Current_Leads/2024/harshit1.jpg",
 //     name: "Harshit Yadav",
 //     domain: "Tech Lead",
 //     message: "",
@@ -616,7 +616,7 @@ export const OUR_LEADS = [
 //     linkedIn: "https://www.linkedin.com/in/harshit-yadav-2b2b2922b/",
 //   },
 //   {
-//     image: "/Current_Leads/jordan.png",
+//     image: "/Current_Leads/2024/jordan.png",
 //     name: "Aaryan Jordan",
 //     domain: "Tech Lead",
 //     message: "",
@@ -626,7 +626,7 @@ export const OUR_LEADS = [
 //     github: "https://github.com/Aaryan-Jordan",
 //   },
 //   {
-//     image: "/Current_Leads/amaan.png",
+//     image: "/Current_Leads/2024/amaan.png",
 //     name: "Amaan Bhati",
 //     domain: "Web Lead",
 //     message: "",
@@ -636,7 +636,7 @@ export const OUR_LEADS = [
 //     linkedIn: "https://www.linkedin.com/in/amaan-bhati-6a7105230/",
 //   },
 //   {
-//     image: "/Current_Leads/arunopal.png",
+//     image: "/Current_Leads/2024/arunopal.png",
 //     name: "Arunopal Dutta",
 //     domain: "ML Lead",
 //     message: "",
@@ -646,7 +646,7 @@ export const OUR_LEADS = [
 //     instagram: "https://www.instagram.com/arunopal_dutta/",
 //   },
 //   {
-//     image: "/Current_Leads/preetam.png",
+//     image: "/Current_Leads/2024/preetam.png",
 //     name: "Pritam Kumar Pal",
 //     domain: "AR/VR Lead",
 //     message: "",
@@ -656,7 +656,7 @@ export const OUR_LEADS = [
 //     instagram: "",
 //   },
 //   {
-//     image: "/Current_Leads/subandhu.png",
+//     image: "/Current_Leads/2024/subandhu.png",
 //     name: "Subandhu",
 //     domain: "Cloud Lead",
 //     message: "",
@@ -666,7 +666,7 @@ export const OUR_LEADS = [
 //     instagram: "https://www.instagram.com/dontfollowmeyoullendupinmyarms/",
 //   },
 //   {
-//     image: "/Current_Leads/shashank.png",
+//     image: "/Current_Leads/2024/shashank.png",
 //     name: "Shashank Deepak",
 //     domain: "App Lead",
 //     message: "",
@@ -677,7 +677,7 @@ export const OUR_LEADS = [
 //   },
 
 //   {
-//     image: "/Current_Leads/samridhi.png",
+//     image: "/Current_Leads/2024/samridhi.png",
 //     name: "Samriddhi Sharma",
 //     domain: "Creative Lead",
 //     message: "",
@@ -688,7 +688,7 @@ export const OUR_LEADS = [
 //   },
 //   {
 //     // image: "/BgColored_Leads/abhinav.png",
-//     image: "/Current_Leads/dawar.png",
+//     image: "/Current_Leads/2024/dawar.png",
 //     name: "Dawar",
 //     domain: "Content Lead",
 //     message: "",
@@ -698,7 +698,7 @@ export const OUR_LEADS = [
 //     instagram: "https://instagram.com/dawar_shafaque?igshid=NGExMmI2YTkyZg==",
 //   },
 //   {
-//     image: "/Current_Leads/ayush.png",
+//     image: "/Current_Leads/2024/ayush.png",
 //     name: "Ayush Bachchan",
 //     domain: "Design Lead",
 //     message: "",
@@ -708,7 +708,7 @@ export const OUR_LEADS = [
 //     github: "",
 //   },
 //   // {
-//   //   image: "/Current_Leads/anand.png",
+//   //   image: "/Current_Leads/2024/anand.png",
 //   //   name: "Anand",
 //   //   domain: "PR Lead",
 //   //   message: "",
@@ -718,7 +718,7 @@ export const OUR_LEADS = [
 //   //   github: "",
 //   // },
 //   {
-//     image: "/Current_Leads/pranshu.png",
+//     image: "/Current_Leads/2024/pranshu.png",
 //     name: "Pranshu",
 //     domain: "CR Lead",
 //     message: "",
@@ -728,7 +728,7 @@ export const OUR_LEADS = [
 //     instagram: "https://instagram.com/coz.nobody?igshid=NGExMmI2YTkyZg==",
 //   },
 //   {
-//     image: "/Current_Leads/parivesh.png",
+//     image: "/Current_Leads/2024/parivesh.png",
 //     name: "Parivesh",
 //     domain: "Video Editor Lead",
 //     message: "",
@@ -738,7 +738,7 @@ export const OUR_LEADS = [
 //     github: "",
 //   },
 //   {
-//     image: "/Current_Leads/anunay.png",
+//     image: "/Current_Leads/2024/anunay.png",
 //     name: "Anunay",
 //     domain: "Youtube Hosting Lead",
 //     message: "",
