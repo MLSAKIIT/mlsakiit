@@ -36,7 +36,7 @@ const CurrentLeadsCard = ({ image, name, domain, index, isActive, onClick, insta
         <Image
           src={image}
           style={imgStyle}
-          className="h-full  w-full rounded-imageradius border border-[#5F5E5E] grayscale"
+          className="h-full  w-full rounded-imageradius border border-[#5F5E5E]"
           width={700}
           height={700}
           alt="name"
