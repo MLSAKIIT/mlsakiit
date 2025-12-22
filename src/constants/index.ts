@@ -974,6 +974,16 @@ export const OUR_CURRENT_LEADS = [
     facebook: "",
     message: "",
   },
+    {
+    name: "Adarsh Upadhyay",
+    image: "/Current_Leads/2025/adarsh.jepg",
+    domain: "Executive",
+    github: "https://github.com/Tony-ArtZ",
+    linkedIn: "https://www.linkedin.com/in/adarsh-upadhyay-8b8a55232/",
+    instagram: "https://www.instagram.com/adarsh_upadhyay_tz/",
+    facebook: "",
+    message: "",
+  },
   {
     name: "Aayush Bansal",
     image: "/Current_Leads/2025/aayush_bansal.jpeg",
