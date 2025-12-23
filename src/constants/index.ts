@@ -976,7 +976,7 @@ export const OUR_CURRENT_LEADS = [
   },
     {
     name: "Adarsh Upadhyay",
-    image: "/Current_Leads/2025/adarsh.jepg",
+    image: "/Current_Leads/2025/adarsh.jpeg",
     domain: "Executive",
     github: "https://github.com/Tony-ArtZ",
     linkedIn: "https://www.linkedin.com/in/adarsh-upadhyay-8b8a55232/",
