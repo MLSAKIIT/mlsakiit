@@ -1056,6 +1056,28 @@ export const OUR_CURRENT_LEADS = [
     facebook: "",
     message: "",
   },
+  {
+    name: "Prisha Piyushi",
+    image: "/Current_Leads/2025/prisha_piyushi.jpg",
+    domain: "Broadcasting",
+    github: "https://github.com/prishiissky",
+    linkedIn:
+      "https://www.linkedin.com/in/prisha-piyushi-208210300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "",
+    facebook: "",
+    message: "",
+  },
+  {
+    name: "Mayur Gupta",
+    image: "/Current_Leads/2025/mayur_gupta.jpg",
+    domain: "Corporate and Public Relations",
+    github: "",
+    linkedIn:
+      "https://www.linkedin.com/in/mayur-gupta-515818290?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "",
+    facebook: "",
+    message: "",
+  },
 ];
 
 export const OUR_SPONSORS = [
