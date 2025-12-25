@@ -974,7 +974,7 @@ export const OUR_CURRENT_LEADS = [
     facebook: "",
     message: "",
   },
-    {
+  {
     name: "Adarsh Upadhyay",
     image: "/Current_Leads/2025/adarsh.jpeg",
     domain: "Executive",
@@ -1002,6 +1002,16 @@ export const OUR_CURRENT_LEADS = [
     linkedIn:
       "https://www.linkedin.com/in/vaibhavraj83?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
     instagram: "",
+    facebook: "",
+    message: "",
+  },
+  {
+    name: "Soham Roy",
+    image: "/Current_Leads/2025/soham_roy.jpg",
+    domain: "AI/ML",
+    github: "https://github.com/sohambuilds",
+    linkedIn: "https://linkedin.com/in/sohamr",
+    instagram: "https://instagram.com/soham_.rx",
     facebook: "",
     message: "",
   },
@@ -1047,11 +1057,11 @@ export const OUR_CURRENT_LEADS = [
     message: "",
   },
   {
-    name: "Anushka Sinha",
-    image: "/Current_Leads/2025/anushka_sinha.jpg",
-    domain: "Graphic Design",
+    name: "Vaishnavi Uttam Kumar",
+    image: "/Current_Leads/2025/vaishnavi_uttam_kumar.jpg",
+    domain: "Creative",
     github: "",
-    linkedIn: "https://www.linkedin.com/in/anushka-sinha510",
+    linkedIn: "",
     instagram: "",
     facebook: "",
     message: "",
@@ -1063,6 +1073,16 @@ export const OUR_CURRENT_LEADS = [
     github: "https://github.com/prishiissky",
     linkedIn:
       "https://www.linkedin.com/in/prisha-piyushi-208210300?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    instagram: "",
+    facebook: "",
+    message: "",
+  },
+  {
+    name: "Anushka Sinha",
+    image: "/Current_Leads/2025/anushka_sinha.jpg",
+    domain: "Graphic Design",
+    github: "",
+    linkedIn: "https://www.linkedin.com/in/anushka-sinha510",
     instagram: "",
     facebook: "",
     message: "",
