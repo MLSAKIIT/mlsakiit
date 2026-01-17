@@ -985,6 +985,16 @@ export const OUR_CURRENT_LEADS = [
     message: "",
   },
   {
+    name: "Aditya Chowdhury",
+    image: "/Current_Leads/2025/aditya_chowdhury.jpg",
+    domain: "Corporate and Public Relations",
+    github: "https://github.com/ApexStrive",
+    linkedIn: "https://www.linkedin.com/in/chowdhuryaditya",
+    instagram: "",
+    facebook: "",
+    message: "",
+  },
+  {
     name: "Aayush Bansal",
     image: "/Current_Leads/2025/aayush_bansal.jpeg",
     domain: "Tech Lead",
