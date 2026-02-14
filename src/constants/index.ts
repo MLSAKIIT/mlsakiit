@@ -1119,6 +1119,27 @@ export const OUR_SPONSORS = [
     h: 41,
   },
   {
+    name: "Carbon",
+    site: "https://carbon.com/",
+    image: "/sponsors/carbon.png",
+    w: 149,
+    h:41,
+  },
+  {
+    name: "Xyz",
+    site: "https://xyz.com/",
+    image: "/sponsors/xyz.png",
+    w: 139,
+    h: 41,
+  },
+  {
+    name: "CodeCrafters",
+    site: "https://codecrafters.io/",
+    image: "/sponsors/codecrafter.png",
+    w: 149,
+    h: 41,
+  },
+  {
     name: "Biryani Box",
     site: "",
     image: "/sponsors/bb.png",
