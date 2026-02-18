@@ -66,7 +66,7 @@ function Sponsors() {
         </span>
       </motion.span>
       <motion.div
-        className="flex flex-wrap mt-[20px] w-full justify-start lg:justify-center  gap-10"
+        className="flex flex-wrap mt-[20px] w-full justify-start lg:justify-center  gap-8"
         initial="hidden"
         animate={controls}
         variants={imageVariants}
