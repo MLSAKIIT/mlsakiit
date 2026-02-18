@@ -85,11 +85,6 @@ function Sponsors() {
               alt={sponsor.name}
               className="grayscale-img hover:grayscale-0 max-w-full w-full h-full filter grayscale"
             />
-            {sponsor.name === "CodeCrafters" && (
-              <motion.p className="mb-3 text-center text-white text-2xl font-semibold tracking-wide">
-                Code Crafters
-              </motion.p>
-            )}
           </motion.a>
         ))}
       </motion.div>
