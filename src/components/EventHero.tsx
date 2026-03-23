@@ -33,8 +33,8 @@ const EventHero = () => {
             <div className="py-4 md:py-2 mx-auto mt-[5rem]  border-[1px] border-[#858585] border-solid flex items-center   justify-between rounded-xl bg-[#25252580] text-white shadow-gray  lg:w-[100%] ">
               <Link href={""} target="_blank">
                 <Image
-                  src='/eventImages/project wing 4.0.png'
-                  alt="Hackoplcpyse Event"
+                  src="/eventImages/echelon.jpg"
+                  alt="Echelon Event"
                   width={150}
                   height={150}
                   className=" ml-6 sm:ml-10 h-[105px] w-[100px] md:h-[125px] object-contain md:w-[120px] lg:h-[150px] lg:w-[130px] "
@@ -50,12 +50,12 @@ const EventHero = () => {
               <div className="flex cursor-default flex-col  items-end justify-between pr-3 pt-3  text-right md:text-lg lg:text-xl font-normal capitalize">
                 <div className="flex flex-col">
                   <h1 className="text-[15px] font-semibold md:leading-2 lg:leading-4 md:py-1 md:text-xl lg:text-2xl">
-                    Project Wing 5.0
+                    Echelon
                   </h1>
 
                   <div className="my-2 flex items-center justify-end gap-1">
                     <BsCalendar4Week />
-                    <p>14th Dec, 2025</p>
+                    <p>26th March, 2026</p>
                   </div>
                   <div className="duration-50 mb-2 mt-1 h-[2px] w-[100%] bg-gradient-to-r from-transparent to-[#ffffff]  my-1 lg:my-2 "></div>
                   <div className="flex sm:flex-row sm:gap-4 sm:items-center flex-col ">
@@ -64,7 +64,7 @@ const EventHero = () => {
                     </p> */}
                   </div>
                 </div>
-                <Link href="http://register.mlsakiit.com" target="_blank">
+                <Link href="https://echelon-delta.vercel.app" target="_blank">
                   <button
                   disabled={true}
                   className=" mb-[15px]  flex w-full items-center justify-center  whitespace-nowrap rounded-[100px] bg-gradient-to-r from-[#0070C5] to-[#3BABCF]  px-2  py-1 text-xs lg:text-xl lg:px-8  ">
