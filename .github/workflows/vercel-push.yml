@@ -14,7 +14,11 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses:  amondnet/vercel-action@v30
+
+      - name: Install latest Vercel CLI
+        run: npm install -g vercel@latest
+
+      - uses: amondnet/vercel-action@v25
         with:
           vercel-token: ${{ secrets.VERCEL_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
