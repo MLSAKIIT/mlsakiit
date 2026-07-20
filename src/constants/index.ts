@@ -954,6 +954,16 @@ export const OUR_LEADS = [
 
 export const OUR_CURRENT_LEADS = [
   {
+    name: "Aditya Chowdhury",
+    image:  "/Current_Leads/2026/aditya_chowdhury.png",
+    domain: "Director",
+    github: "https://github.com/ApexStrive",
+    linkedIn: "https://www.linkedin.com/in/chowdhuryaditya",
+    instagram: "",
+    facebook: "",
+    message: "",
+  },
+  {
     name: "Aishi Bijpuria",
     image: "/Current_Leads/2025/aishi_bijpuria.jpeg",
     domain: "Lead",
@@ -984,16 +994,7 @@ export const OUR_CURRENT_LEADS = [
     facebook: "",
     message: "",
   },
-  {
-    name: "Aditya Chowdhury",
-    image: "/Current_Leads/2025/aditya_chowdhury.jpg",
-    domain: "Corporate and Public Relations",
-    github: "https://github.com/ApexStrive",
-    linkedIn: "https://www.linkedin.com/in/chowdhuryaditya",
-    instagram: "",
-    facebook: "",
-    message: "",
-  },
+  
   {
     name: "Aayush Bansal",
     image: "/Current_Leads/2025/aayush_bansal.jpeg",
@@ -1066,9 +1067,19 @@ export const OUR_CURRENT_LEADS = [
     facebook: "",
     message: "",
   },
+  // {
+  //   name: "Vaishnavi Uttam Kumar",
+  //   image: "/Current_Leads/2025/vaishnavi_uttam_kumar.jpg",
+  //   domain: "Creative",
+  //   github: "",
+  //   linkedIn: "",
+  //   instagram: "",
+  //   facebook: "",
+  //   message: "",
+  // },
   {
-    name: "Vaishnavi Uttam Kumar",
-    image: "/Current_Leads/2025/vaishnavi_uttam_kumar.jpg",
+    name: "Ayush Chandra",
+    image: "/Current_Leads/2026/ayush_chandra.PNG",
     domain: "Creative",
     github: "",
     linkedIn: "",
